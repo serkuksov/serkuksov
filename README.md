@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 [![codewars](https://www.codewars.com/users/serkuksov/badges/micro)](https://www.codewars.com/users/serkuksov)   
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serkuksov&layout=compact)
