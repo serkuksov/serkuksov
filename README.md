@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 -->
 [![codewars](https://www.codewars.com/users/serkuksov/badges/large)](https://www.codewars.com/users/serkuksov)   
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serkuksov&layout=compact)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serkuksov&layout=compact)
