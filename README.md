@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![codewars](https://www.codewars.com/users/serkuksov/badges/large)](https://www.codewars.com/users/serkuksov)   
+[![codewars](https://www.codewars.com/users/serkuksov/badges/micro)](https://www.codewars.com/users/serkuksov)   
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=serkuksov&layout=compact)
