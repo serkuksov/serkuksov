@@ -1,4 +1,5 @@
-### Hi there 👋
+# Hi there, I'm Sergei ![](https://github.com/blackcater/blackcater/raw/main/images/Hi.gif) 
+### Python Backend Developer
 
 <!--
 **serkuksov/serkuksov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
